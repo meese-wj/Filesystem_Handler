@@ -1,0 +1,9 @@
+@CMAKE_PROJECT_NAME@ CMake Build Information:
+
+    * CMake Configure Time........@cmake_time@
+    * CMake Build Type............@CMAKE_BUILD_TYPE@
+    * CMake Generator.............@CMAKE_GENERATOR@
+    * CMake C Compiler............@CMAKE_C_COMPILER@
+    * CMake CXX Compiler..........@CMAKE_CXX_COMPILER@
+    * CMake CXX Standard..........@CMAKE_CXX_STANDARD@
+    * CMake Installation..........@CMAKE_INSTALL_PREFIX@
