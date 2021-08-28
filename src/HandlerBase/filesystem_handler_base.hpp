@@ -4,7 +4,7 @@
 // object base. It is meant to be inherited by 
 // future simulations but can be used directly.
 
-
+#include <iostream>
 #include <string>
 #include <filesystem>
 
