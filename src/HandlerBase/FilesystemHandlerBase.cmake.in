@@ -1,0 +1,7 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/FilesystemHandlerBaseTargets.cmake")
+
+check_required_components(filesystem_handler_base)
+
+message(STATUS "FilesystemHandlerBase library found and loaded.")
